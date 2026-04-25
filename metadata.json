@@ -1,0 +1,6 @@
+{
+  "name": "NeuroLink: Agentic Economy",
+  "description": "A prototype of an agent-to-agent nanopayment loop using Circle Nanopayments and the Arc network, powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
